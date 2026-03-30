@@ -1,0 +1,5 @@
+{
+  "name": "SmartShop AI Aggregator",
+  "description": "Unified e-commerce aggregator that compares prices, delivery times, and ratings across platforms like Amazon, Flipkart, and Zepto using AI-driven scoring.",
+  "requestFramePermissions": []
+}
